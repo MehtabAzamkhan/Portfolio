@@ -5,10 +5,11 @@ import HeroImg2 from '../components/HeroImg2';
 
 const Contact = () => {
   return  (<div>
-    <Navbar/>    <HeroImg2 heading="Contact" text="Let's have a Chat"/>
+    <Navbar/>  
+      <HeroImg2 heading="Contact" text="Let's have a Chat"/>
     <Footer/>
   </div>
     );
 };
 
-export default Contact
+export default Contact;
