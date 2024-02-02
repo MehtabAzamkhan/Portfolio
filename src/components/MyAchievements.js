@@ -8,7 +8,7 @@ import AchievementsCardData from "./AchievementsCardData";
 
 const MyAchievements = () => {
   return     <div className="achievementsWork-container">
-    <h1 className="achievements-heading">Projects</h1>
+    <h1 className="achievements-heading">Skies are Limit</h1>
     <div className="achievements-container">
         {AchievementsCardData.map((val,ind) =>{
             return(

@@ -2,7 +2,6 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import HeroImg2 from '../components/HeroImg2';
-import Work from '../components/MyAchievements';
 import MyAchievements from '../components/MyAchievements';
 
 const Achievements = () => {
